@@ -1,5 +1,5 @@
 - Hello :smile: 
-- :computer: Working on :  Angular, Javascript, TypeScript, Dart, SQLServer.
+- :computer: Working on :  Angular, Javascript, TypeScript.
 - :book: Learning : Flutter.
 <!---
 rhuanpasti/rhuanpasti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
